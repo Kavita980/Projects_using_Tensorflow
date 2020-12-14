@@ -1,3 +1,3 @@
-# Tensorflow_Projects
+# Projects_using_Tensorflow
 
-It Contains Tensorflow Projects created by me.
+This repository contains all the hands-on projects using Tensorflow library.       
